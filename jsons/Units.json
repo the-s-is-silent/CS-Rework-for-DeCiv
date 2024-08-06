@@ -134,7 +134,7 @@
 		"uniques": [
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
-			"May withdraw before melee ([75]%)",
+			"Withdraws before melee combat <with [75]% chance>",
 			"Only available <if [Alma Air Base] is constructed>",
 			"Consumes [1] [Oil]"
 		],
@@ -431,7 +431,7 @@
 		"upgradesTo": "Mechanized Worker",
 		"replacementTextForUniques": "Can build normal tile improvements on land, sacrifice itself to instantly build a Research site, or generate small amounts of Science when it ends its turn on a Rubble or Ruins tile",
 		"uniques": ["Can build [Land] improvements on tiles",
-			"Can instantly create a [Research site] improvement <by consuming this unit>",
+			"Can instantly construct a [Research site] improvement <by consuming this unit>",
 			"Gain [5]-[10] [Science] <upon ending a turn in a [Forest] tile> <before the [Neofeudal era]>",
 			"Gain [5]-[10] [Science] <upon ending a turn in a [Jungle] tile> <before the [Neofeudal era]>",
 			"Gain [15]-[30] [Science] <upon ending a turn in a [Forest] tile> <starting from the [Neofeudal era]> <before the [Industrial era]>",
@@ -444,7 +444,7 @@
 		"name": "Persevering Pax Researcher",
 		"uniqueTo": "The Pax",
 		"unitType": "Civilian",
-		"uniques": ["May withdraw from melee ([100]%)",
+		"uniques": ["Withdraws before melee combat <with [100]% chance>",
 			"Can instantly construct a [Preservator] improvement <by consuming this unit>",
 			"Unbuildable", "Uncapturable"],
 		"movement": 2

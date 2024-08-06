@@ -1,5 +1,8 @@
 {
 	"buildingsToRemove": [
 		"Arroyo", "Fo Guang Library", "Ghost Mountain", "Hub Work Camp"
+	],
+	"uniques": [
+		"Suppress warning [*is supposed to automatically upgrade*]"
 	]
 }

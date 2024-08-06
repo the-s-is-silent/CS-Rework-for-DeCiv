@@ -211,7 +211,7 @@
 	{
 		"name": "Exploiters Tribe",
 		"adjective": ["Exploiter"],
-		"cityStateType": "Exploitation-type",
+		"cityStateType": "Exploiter-type",
 		"style": "Barbarians",
 		"uniques": ["Cannot build [Personnel] units",
 			"Starts with [Machinery]",

@@ -395,7 +395,7 @@
 			"[+10 Science] <before the [Neofeudal era]>",
 			"[+30 Science] <starting from the [Neofeudal era]> <before the [Industrial era]>",
 			"[+60 Science] <starting from the [Industrial era]>",
-			"May buy [Persevering Pax Researcher] units for [1000] [Faith] [in all cities in which the majority religion is an enhanced religion] at an increasing cost [500]"
+			"May buy [Persevering Pax Researcher] units for [1000] [Faith] [in all cities in which the majority religion is an enhanced religion] at an increasing price ([500])"
 		],
 		"color": [177, 157, 63]
 	},
