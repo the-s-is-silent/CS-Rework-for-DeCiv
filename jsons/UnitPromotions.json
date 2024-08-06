@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Devoted",
+		"uniques": ["Can Spread Religion <[1] additional time(s)>"]
+	},
+	{
+		"name": "Sagely Warfare",
+		"uniques": ["[+15]% Strength for [Military] units within [2] tiles"]
+	},
+	{
+		"name": "Battle Meditation",
+		"uniques": ["This Unit gains [1] XP <upon ending a turn in a [Great Improvement] tile>"]
+	},
+	{
+		"name": "Oath of Vengeance",
+		"uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>"]
+	},
+	{
+		"name": "Ballistic Weave",
+		"uniques": ["[+10]% Strength <when defending>", "[+25]% Strength <vs [Ranged] units> <when defending>"]
+	},
+	{
+		"name": "Seaside Resort",
+		"uniques": ["Can instantly construct a [Seaside Resort] improvement <by consuming this unit>"]
+	}
+]

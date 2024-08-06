@@ -1,0 +1,464 @@
+[
+	//Cultured
+	{
+		"name": "Culture",
+		"friendBonusUniques": [
+			"[+3 Culture] <before the [Neofeudal era]>",
+			"[+6 Culture] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+13 Culture] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+6 Culture] <before the [Neofeudal era]>",
+			"[+12 Culture] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+26 Culture] <starting from the [Industrial era]>"
+		],
+		"color": [139, 96, 255]
+	},
+	{
+		"name": "Arden-type",
+		"friendBonusUniques": [
+			"[+3 Culture] <before the [Neofeudal era]>",
+			"[+6 Culture] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+13 Culture] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+6 Culture] <before the [Neofeudal era]>",
+			"[+12 Culture] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+26 Culture] <starting from the [Industrial era]>",
+			"[+1 Gold, +1 Culture, +1 Happiness] from every [Administrator]"
+		],
+		"color": [211, 180, 113]
+	},
+	{
+		"name": "Hockey-type",
+		"friendBonusUniques": [
+			"[+3 Culture] <before the [Neofeudal era]>",
+			"[+6 Culture] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+13 Culture] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+6 Culture] <before the [Neofeudal era]>",
+			"[+12 Culture] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+26 Culture] <starting from the [Industrial era]>",
+			"[+1 Food, +2 Culture] from every [{Tundra} {Food source}]"
+		],
+		"color": [51, 102, 0]
+	},
+	{
+		"name": "Tellus-type",
+		"friendBonusUniques": [
+			"[+3 Culture] <before the [Neofeudal era]>",
+			"[+6 Culture] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+13 Culture] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+6 Culture] <before the [Neofeudal era]>",
+			"[+12 Culture] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+26 Culture] <starting from the [Industrial era]>",
+			"[+1 Food, +1 Culture] from every [Tree plantation]"
+		],
+		"color": [0, 205, 102]
+	},
+	//Agrarian
+	{
+		"name": "Farming",
+		"friendBonusUniques": [
+			"[+2 Food] [in capital] <before the [Industrial era]>",
+			"[+4 Food] [in capital] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+2 Food] [in capital] <before the [Industrial era]>",
+			"[+1 Food] [in all cities] <before the [Industrial era]>",
+			"[+4 Food] [in capital] <starting from the [Industrial era]>",
+			"[+2 Food] [in all cities] <starting from the [Industrial era]>"
+		],
+		"color": [56, 255, 112]
+	},
+	{
+		"name": "Arroyo-type",
+		"friendBonusUniques": [
+			"[+2 Food] [in capital] <before the [Industrial era]>",
+			"[+4 Food] [in capital] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+2 Food] [in capital] <before the [Industrial era]>",
+			"[+1 Food] [in all cities] <before the [Industrial era]>",
+			"[+4 Food] [in capital] <starting from the [Industrial era]>",
+			"[+2 Food] [in all cities] <starting from the [Industrial era]>",
+			"[+1 Food, +2 Culture] from every [Farmer]"
+		],
+		"color": [115, 95, 60]
+	},
+	{
+		"name": "Ghost-type",
+		"friendBonusUniques": [
+			"[+2 Food] [in capital] <before the [Industrial era]>",
+			"[+4 Food] [in capital] <starting from the [Industrial era]>"
+		],
+        "allyBonusUniques": [
+			"[+2 Food] [in capital] <before the [Industrial era]>", 
+			"[+1 Food] [in all cities] <before the [Industrial era]>",
+			"[+4 Food] [in capital] <starting from the [Industrial era]>",
+			"[+2 Food] [in all cities] <starting from the [Industrial era]>",
+			"[+50]% Production when constructing [Low Tech] units [in all cities]"
+		],
+		"color": [100, 100, 255]
+	},
+	{
+		"name": "Jericho-type",
+		"friendBonusUniques": [
+			"[+2 Food] [in capital] <before the [Industrial era]>",
+			"[+4 Food] [in capital] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+2 Food] [in capital] <before the [Industrial era]>",
+			"[+1 Food] [in all cities] <before the [Industrial era]>",
+			"[+4 Food] [in capital] <starting from the [Industrial era]>",
+			"[+2 Food] [in all cities] <starting from the [Industrial era]>",
+			"[+2 Culture] from every [Walls]",
+			"[+2 Culture] from every [Defensive Emplacements]",
+			"[+33]% Production when constructing [Walls] buildings [in all cities]",
+			"[+33]% Production when constructing [Defensive Emplacements] buildings [in all cities]"
+		],
+		"color": [224, 224, 224]
+	},
+	{
+		"name": "Carbon-type",
+		"friendBonusUniques": [
+			"[+2 Food] [in capital] <before the [Industrial era]>",
+			"[+4 Food] [in capital] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+2 Food] [in capital] <before the [Industrial era]>",
+			"[+1 Food] [in all cities] <before the [Industrial era]>",
+			"[+4 Food] [in capital] <starting from the [Industrial era]>",
+			"[+2 Food] [in all cities] <starting from the [Industrial era]>",
+			"[+3 Food] from every [Market]",
+			"May buy [Atomic Diner] buildings for [300] [Gold] [in all cities]"
+		],
+		"color": [230, 51, 7]
+	},
+	//Mercantile
+    {
+        "name": "Trading",
+        "friendBonusUniques": [
+			"[+2 Happiness] <before the [Neofeudal era]>",
+			"[+3 Happiness] <starting from the [Neofeudal era]>"
+		],
+		"allyBonusUniques": [
+			"[+2 Happiness] <before the [Neofeudal era]>",
+			"[+3 Happiness] <starting from the [Neofeudal era]>",
+			"Provides a unique luxury"
+		],
+		"color": [255, 216, 0]
+	},
+	{
+		"name": "Bartertown-type",
+		"friendBonusUniques": [
+			"[+2 Happiness] <before the [Neofeudal era]>",
+			"[+3 Happiness] <starting from the [Neofeudal era]>"
+		],
+		"allyBonusUniques": [
+			"[+2 Happiness] <before the [Neofeudal era]>",
+			"[+3 Happiness] <starting from the [Neofeudal era]>",
+			"Provides a unique luxury",
+			"[+2 Production] from every [Biofuel Refinery]",
+			"[+2 Production] from every [Syngas Plant]",
+			"[+5]% [Production] from every [Biofuel Refinery]",
+			"[+5]% [Production] from every [Syngas Plant]"
+		],
+		"color": [194, 7, 255]
+	},
+	{
+		"name": "Hub-type",
+		"friendBonusUniques": ["[+2 Happiness] <before the [Neofeudal era]>",
+			"[+3 Happiness] <starting from the [Neofeudal era]>"],
+		"allyBonusUniques": ["[+2 Happiness] <before the [Neofeudal era]>",
+			"[+3 Happiness] <starting from the [Neofeudal era]>",
+			"Provides a unique luxury",
+			"[+5 Gold] from each Trade Route"],
+		"color": [100, 100, 220]
+	},
+	{
+		"name": "Venice-type",
+		"friendBonusUniques": ["[+2 Happiness] <before the [Neofeudal era]>",
+			"[+3 Happiness] <starting from the [Neofeudal era]>"],
+		"allyBonusUniques": ["[+2 Happiness] <before the [Neofeudal era]>",
+			"[+3 Happiness] <starting from the [Neofeudal era]>",
+			"Provides a unique luxury",
+			"[Gold] cost of purchasing [Civilian Water] units [-50]%",
+			"[Worker] units gain the [Seaside Resort] promotion",
+			"[Mounted Worker] units gain the [Seaside Resort] promotion",
+			"[Mechanized Worker] units gain the [Seaside Resort] promotion"],
+		"color": [153, 204, 255]
+	},
+    {
+        "name": "Trudograd-type",
+        "friendBonusUniques": [
+			"[+2 Happiness] <before the [Neofeudal era]>",
+			"[+3 Happiness] <starting from the [Neofeudal era]>"
+		],
+		"allyBonusUniques": [
+			"[+2 Happiness] <before the [Neofeudal era]>",
+			"[+3 Happiness] <starting from the [Neofeudal era]>",
+			"Provides a unique luxury",
+			"[Gold] cost of purchasing [All] buildings [-15]%"
+		],
+		"color": [0, 102, 102]
+	},
+	//Militaristic
+	{
+		"name": "Weapons",
+		"friendBonusUniques": ["Provides military units every ≈[20] turns"],
+		"allyBonusUniques": ["Provides military units every ≈[17] turns"],
+		"color": [255, 0, 0]
+	},
+	{
+		"name": "Almaty-type",
+		"friendBonusUniques": ["Provides military units every ≈[20] turns"],
+		"allyBonusUniques": ["Provides military units every ≈[17] turns",
+			"[+3 Production] from every [Barracks]",
+			"[+3 Production] from every [Armaments Production Line]",
+			"[+10]% [Production] from every [Military Academy]"],
+		"color": [40, 135, 20]
+    },
+    {
+		"name": "Iron Rod-type",
+		"friendBonusUniques": ["Provides military units every ≈[20] turns"],
+		"allyBonusUniques": ["Provides military units every ≈[17] turns",
+			"[+6 Faith] from every [Citadel]",
+			"New [Military] units start with [15] Experience [in all cities]"],
+			"color": [255, 153, 255]
+	},
+	{
+		"name": "Defiance-type",
+		"friendBonusUniques": ["Provides military units every ≈[20] turns"],
+		"allyBonusUniques": [
+			"Provides military units every ≈[17] turns",
+			"[+1 Science] from every [Strategic resource]",
+			"May buy [Ark Hunter] units with [Gold] for [3] times their normal Production cost"
+		],
+		"color": [0, 94, 171]
+	},
+	//Religious
+	{
+		"name": "Prayer",
+		"friendBonusUniques": [
+			"[+3 Faith] <before the [Neofeudal era]>",
+			"[+6 Faith] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+13 Faith] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+6 Faith] <before the [Neofeudal era]>",
+			"[+12 Faith] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+26 Faith] <starting from the [Industrial era]>"
+		],
+		"color": [255, 255, 255]
+	},
+	{
+		"name": "Jerome-type",
+		"friendBonusUniques": [
+			"[+3 Faith] <before the [Neofeudal era]>",
+			"[+6 Faith] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+13 Faith] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+6 Faith] <before the [Neofeudal era]>",
+			"[+12 Faith] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+26 Faith] <starting from the [Industrial era]>",
+			"[Great Sage] units gain the [Sagely Warfare] promotion",
+			"[Personnel] units gain the [Battle Meditation] promotion"
+		],
+		"color": [159, 58, 83]
+	},
+	{
+		"name": "Deseret-type",
+		"friendBonusUniques": [
+			"[+3 Faith] <before the [Neofeudal era]>",
+			"[+6 Faith] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+13 Faith] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+6 Faith] <before the [Neofeudal era]>",
+			"[+12 Faith] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+26 Faith] <starting from the [Industrial era]>",
+			"[+1 Food, +1 Faith] from every [{Desert} {Food source}]",
+			"[Great Sage] units gain the [Devoted] promotion"
+		],
+		"color": [151, 125, 0]
+	},
+	{
+		"name": "Fo Guang-type",
+		"friendBonusUniques": [
+			"[+3 Faith] <before the [Neofeudal era]>",
+			"[+6 Faith] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+13 Faith] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+6 Faith] <before the [Neofeudal era]>",
+			"[+12 Faith] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+26 Faith] <starting from the [Industrial era]>",
+			"[+3 Culture, +1 Faith] from every [Library]",
+			"When spreading religion to a city, gain [10] times the amount of followers of other religions as [Culture]"
+		],
+		"color": [250, 128, 114]
+	},
+	{
+		"name": "Issaquah-type",
+		"friendBonusUniques": [
+			"[+3 Faith] <before the [Neofeudal era]>",
+			"[+6 Faith] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+13 Faith] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+6 Faith] <before the [Neofeudal era]>",
+			"[+12 Faith] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+26 Faith] <starting from the [Industrial era]>",
+			"[+1 Food, +1 Faith] from every [{Water} {Food source}]"
+		],
+		"color": [83, 99, 83]
+	},
+	//Scientific
+	{
+		"name": "Research",
+		"friendBonusUniques": [
+			"[+5 Science] <before the [Neofeudal era]>",
+			"[+15 Science] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+45 Science] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+10 Science] <before the [Neofeudal era]>",
+			"[+30 Science] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+60 Science] <starting from the [Industrial era]>"
+		],
+		"color": [55, 55, 255]
+	},
+	{
+		"name": "Archive-type",
+		"friendBonusUniques": [
+			"[+5 Science] <before the [Neofeudal era]>",
+			"[+15 Science] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+45 Science] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+10 Science] <before the [Neofeudal era]>",
+			"[+30 Science] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+60 Science] <starting from the [Industrial era]>",
+			"[+2 Culture] from every [Scientist]",
+			"[+33]% Production when constructing [Library] buildings [in all cities]",
+			"[+33]% Production when constructing [University] buildings [in all cities]"
+		],
+		"color": [250, 180, 250]
+	},
+	{
+		"name": "Devil-type",
+		"friendBonusUniques": [
+			"[+5 Science] <before the [Neofeudal era]>",
+			"[+15 Science] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+45 Science] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+10 Science] <before the [Neofeudal era]>",
+			"[+30 Science] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+60 Science] <starting from the [Industrial era]>",
+			"Provides [4] [Uranium]",
+			"[+33]% Production when constructing [Nuclear Plant] buildings [in all cities]"
+		],
+		"color": [224, 224, 50]
+	},
+	{
+		"name": "Emerald-type",
+		"friendBonusUniques": [
+			"[+5 Science] <before the [Neofeudal era]>",
+			"[+15 Science] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+45 Science] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+10 Science] <before the [Neofeudal era]>",
+			"[+30 Science] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+60 Science] <starting from the [Industrial era]>",
+			"[+1 Science, +1 Culture] from every [Artifacts]",
+			"[+1 Science, +1 Culture] from every [Books]",
+			"[+1 Science, +1 Culture] from every [Data]",
+			"[+1 Science, +1 Culture] from every [Encrypted Data]"
+		],
+		"color": [66, 189, 74]
+	},
+	{
+		"name": "Pax-type",
+		"friendBonusUniques": [
+			"[+5 Science] <before the [Neofeudal era]>",
+			"[+15 Science] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+45 Science] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+10 Science] <before the [Neofeudal era]>",
+			"[+30 Science] <starting from the [Neofeudal era]> <before the [Industrial era]>",
+			"[+60 Science] <starting from the [Industrial era]>",
+			"May buy [Persevering Pax Researcher] units for [1000] [Faith] [in all cities in which the majority religion is an enhanced religion] at an increasing cost [500]"
+		],
+		"color": [177, 157, 63]
+	},
+	//Industrious
+	{
+		"name": "Labor",
+		"friendBonusUniques": [
+			"[+3 Production] [in capital] <before the [Industrial era]>",
+			"[+6 Production] [in capital] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+3 Production] [in capital] <before the [Industrial era]>",
+			"[+2 Production] [in all cities] <before the [Industrial era]>",
+			"[+6 Production] [in capital] <starting from the [Industrial era]>",
+			"[+4 Production] [in all cities] <starting from the [Industrial era]>"
+		],
+		"color": [220, 100, 15]
+	},
+	{
+		"name": "Dahomey-type",
+		"friendBonusUniques": [
+			"[+3 Production] [in capital] <before the [Industrial era]>",
+			"[+6 Production] [in capital] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+3 Production] [in capital] <before the [Industrial era]>",
+			"[+2 Production] [in all cities] <before the [Industrial era]>",
+			"[+6 Production] [in capital] <starting from the [Industrial era]>",
+			"[+4 Production] [in all cities] <starting from the [Industrial era]>",
+			"Provides [4] [Slaves]",
+			"[Gold] cost of purchasing [Work Camp] buildings [-50]%"
+		],
+		"color": [255, 128, 0]
+	},
+	{
+		"name": "Exploiter-type",
+		"friendBonusUniques": [
+			"[+3 Production] [in capital] <before the [Industrial era]>",
+			"[+6 Production] [in capital] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+3 Production] [in capital] <before the [Industrial era]>",
+			"[+2 Production] [in all cities] <before the [Industrial era]>",
+			"[+6 Production] [in capital] <starting from the [Industrial era]>",
+			"[+4 Production] [in all cities] <starting from the [Industrial era]>",
+			"[+1 Production] from every [Camp]",
+			"[+1 Production] from every [Salvage site]"
+		],
+		"color": [218, 192, 62]
+	},
+	{
+		"name": "Calico-type",
+		"friendBonusUniques": [
+			"[+3 Production] [in capital] <before the [Industrial era]>",
+			"[+6 Production] [in capital] <starting from the [Industrial era]>"
+		],
+		"allyBonusUniques": [
+			"[+3 Production] [in capital] <before the [Industrial era]>",
+			"[+2 Production] [in all cities] <before the [Industrial era]>",
+			"[+6 Production] [in capital] <starting from the [Industrial era]>",
+			"[+4 Production] [in all cities] <starting from the [Industrial era]>",
+			"[Personnel] units gain the [Ballistic Weave] promotion"
+		],
+		"color": [149, 63, 63]
+	}
+]

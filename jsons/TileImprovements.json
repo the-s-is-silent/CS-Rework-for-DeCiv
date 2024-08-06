@@ -1,0 +1,69 @@
+[
+	{
+		"name": "Preservator",
+		"culture": 1,
+		"science": 1,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Tile provides yield without assigned population",
+			"Ensures a minimum tile yield of [+1 Production]",
+			"[+2 Food, +2 Gold] <in [Fallout] tiles>",
+			"[+2 Food, +2 Gold] <in [Toxic Waste] tiles>",
+			"[+1 Culture] <after discovering [Education]>",
+			"[+1 Production] <after discovering [Laboratory]>",
+			"[+1 Science] <after discovering [Decryption]>",
+			"Does not need removal of [Forest]",
+			"Does not need removal of [Jungle]",
+			"Does not need removal of [Toxic Waste]",
+			"Does not need removal of [Fallout]",
+			"Provides [1] [Coal] <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fallout]>",
+			"Provides [1] [Artifacts] <in [Jungle] tiles> <in [Wasteland] tiles>",
+			"Provides [1] [Electronics] <in [Jungle] tiles> <in [Badlands] tiles>",
+			"Provides [1] [Machine Parts] <in [Jungle] tiles> <in [Tundra] tiles>",
+			"Provides [1] [Artifacts] <in [Jungle] tiles> <in [Desert] tiles>",
+			"Provides [1] [Machine Parts] <in [Jungle] tiles> <in [Permafrost] tiles>",
+			"Provides [1] [Aluminum] <in [Featureless] [Permafrost] tiles>",
+			"Provides [1] [Oil] <in [Featureless] [Tundra] tiles>",
+			"Cannot be built on [Water] tiles",
+			"Cannot be built on [Strategic resource] tiles",
+			"Can only be built to improve a resource <in [Bonus resource] tiles>",
+			"Can only be built to improve a resource <in [Luxury resource] tiles>",
+			"Pillaging this improvement yields approximately [+20 Science]"
+		]
+	},
+	{
+		"name": "Trading post",
+		"production": 2,
+		"gold": 2,
+		"food": 2,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Provides [1] [Ivory]",
+			"[-1 Production, +1 Gold] from [Fresh water] tiles",
+			"[-1 Food] <after discovering [Land Remediation]>",
+			"Constructing it will take over the tiles around it and assign them to your closest city",
+			"Unbuildable <in [resource] tiles>",
+			"Pillaging this improvement yields approximately [+20 Gold]"
+		]
+	},
+	{
+		"name": "Seaside Resort",
+		"gold": 1,
+		"culture": 1,
+		"happiness": 1,
+		"turnsToBuild": 7,
+		"terrainsCanBeBuiltOn": ["Badlands", "Wasteland", "Desert"],
+		"uniqueTo": "Venice Beach",
+		"uniques": [
+			"[+1 Gold] <after discovering [Oceanography]",
+			"[+1 Culture] <after discovering [Radio]>",
+			"[+1 Happiness] <after discovering [Social Engineering]>",
+			"[+1 Gold, +1 Culture] <after discovering [Globalization]>",
+			"Unbuildable <in [resource] tiles>",
+			"Can only be built on [Coastal] tiles",
+			"Pillaging this improvement yields approximately [+10 Gold]"
+		]
+    }
+]
