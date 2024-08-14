@@ -49,7 +49,7 @@
 			"Provides [1] [Ivory]",
 			"[-1 Production, +1 Gold] from [Fresh water] tiles",
 			"[-1 Food] <after discovering [Land Remediation]>",
-			"Constructing it will take over the tiles around it and assign them to your closest city",
+			"Gain control over [all] tiles in a [1]-tile radius",
 			"Unbuildable <in [resource] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]

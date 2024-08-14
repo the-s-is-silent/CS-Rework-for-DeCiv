@@ -16,20 +16,18 @@
 	},
 	{
 		"name": "Encyclopedia",
+		"replaces": "Monument",
 		"uniqueTo": "The Archive",
 		"cost": 0,
 		"culture": 2,
 		"science": 2,
 		"uniques": [
-			"Reveals the entire map",
-			"Automatically built in all cities where it is buildable",
-			"Can only be built <in [Capital] cities>",
-			"Destroyed when the city is captured",
 			"Will not be displayed in Civilopedia"
 		]
 	},
 	{
 		"name": "Homestead",
+		"replaces": "Monument",
 		"uniqueTo": "Jericho",
 		"cost": 0,
 		"culture": 2,
@@ -39,24 +37,17 @@
 			"Provides [1] [Oil]",
 			"Provides [1] [Power]",
 			"Provides [1] [Weapons]",
-			"Reveals the entire map",
-			"Automatically built in all cities where it is buildable",
-			"Can only be built <in [Capital] cities>",
-			"Destroyed when the city is captured",
 			"Will not be displayed in Civilopedia"
 		]
 	},
 	{
 		"name": "Devil's Monument",
+		"replaces": "Monument",
 		"uniqueTo": "Devil's Canyon",
-		"gold": 5,
+		"gold": 2,
 		"culture": 1,
 		"cost": 0,
 		"uniques": [
-			"Reveals the entire map",
-			"Automatically built in all cities where it is buildable",
-			"Can only be built <in [Capital] cities>",
-			"Destroyed when the city is captured",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -86,16 +77,14 @@
 	},
 	{
 		"name": "Silk Road",
+		"replaces": "Monument",
 		"uniqueTo": "Bartertown",
 		"cost": 0,
+		"gold": 2,
 		"culture": 1,
 		"uniques": [
 			"Provides [1] [Weapons]",
 			"Provides [1] [Oil]",
-			"Reveals the entire map",
-			"Automatically built in all cities where it is buildable",
-			"Can only be built <in [Capital] cities>",
-			"Destroyed when the city is captured",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -137,31 +126,25 @@
 	},
 	{
 		"name": "Arroyo Ritual Grounds",
+		"replaces": "Monument",
 		"uniqueTo": "Arroyo",
 		"cost": 0,
-		"culture": 3,
+		"culture": 2,
 		"happiness": 2,
 		"uniques": [
 			"[+25]% Production when constructing [Low Tech] units [in this city]",
-			"Reveals the entire map",
-			"Automatically built in all cities where it is buildable",
-			"Can only be built <in [Capital] cities>",
-			"Destroyed when the city is captured",
 			"Will not be displayed in Civilopedia"
 		]
 	},
 	{
 		"name": "Ghost Mountain Reserve",
+		"replaces": "Monument",
 		"uniqueTo": "Ghost Mountain",
 		"cost": 0,
 		"food": 2,
 		"culture": 2,
 		"uniques": [
 			"[+1 Food] from [Food source] tiles [in this city]",
-			"Reveals the entire map",
-			"Automatically built in all cities where it is buildable",
-			"Can only be built <in [Capital] cities>",
-			"Destroyed when the city is captured",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -196,9 +179,7 @@
 		"science": 2,
 		"uniques": [
 			"[+25]% City Strength from defensive buildings",
-			"Reveals the entire map",
 			"Free [Howitzer] appears",
-			"Automatically built in all cities where it is buildable",
 			"Can only be built <in [Capital] cities>",
 			"Destroyed when the city is captured",
 			"Will not be displayed in Civilopedia"
@@ -251,15 +232,12 @@
 	},
 	{
 		"name": "Mormon Monument",
+		"replaces": "Monument",
 		"uniqueTo": "Deseret Nation",
 		"cost": 0,
 		"culture": 2,
 		"food": 2,
 		"uniques": [
-			"Reveals the entire map",
-			"Automatically built in all cities where it is buildable",
-			"Can only be built <in [Capital] cities>",
-			"Destroyed when the city is captured",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -277,14 +255,12 @@
 	},
 	{
 		"name": "Iron Rod Monument",
+		"replaces": "Monument",
 		"uniqueTo": "Church of the Iron Rod",
 		"cost": 0,
 		"culture": 2,
+		"production": 2,
 		"uniques": [
-			"Reveals the entire map",
-			"Automatically built in all cities where it is buildable",
-			"Can only be built <in [Capital] cities>",
-			"Destroyed when the city is captured",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -306,8 +282,6 @@
 		"gold": 2,
 		"uniques": [
 			"[+1 Gold] from [Land] tiles [in this city]",
-			"Reveals the entire map",
-			"Automatically built in all cities where it is buildable",
 			"Can only be built <in [Capital] cities>",
 			"Destroyed when the city is captured",
 			"Will not be displayed in Civilopedia"
@@ -315,15 +289,12 @@
 	},
 	{
 		"name": "Great Mountain Shrine",
+		"replaces": "Shrine",
 		"uniqueTo": "Fo Guang",
 		"cost": 0,
 		"culture": 2,
 		"gold": 2,
 		"uniques": [
-			"Reveals the entire map",
-			"Automatically built in all cities where it is buildable",
-			"Can only be built <in [Capital] cities>",
-			"Destroyed when the city is captured",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -334,9 +305,7 @@
 		"food": 2,
 		"happiness": 2,
 		"uniques": [
-			"Reveals the entire map",
 			"Free [Tree Lover] appears",
-			"Automatically built in all cities where it is buildable",
 			"Can only be built <in [Capital] cities>",
 			"Destroyed when the city is captured",
 			"Will not be displayed in Civilopedia"
@@ -344,15 +313,12 @@
 	},
 	{
 		"name": "Royal Court",
+		"replaces": "Monument",
 		"uniqueTo": "Dahomey",
 		"cost": 0,
 		"culture": 2,
 		"gold": 2,
 		"uniques": [
-			"Reveals the entire map",
-			"Automatically built in all cities where it is buildable",
-			"Can only be built <in [Capital] cities>",
-			"Destroyed when the city is captured",
 			"Will not be displayed in Civilopedia"
 		]
 	},
@@ -362,13 +328,30 @@
 		"name": "Defense Directorate",
 		"cityHealth": 50,
 		"cost": 0,
-		"uniques": ["City Defense", "[3] units cost no maintenance", "[+3] Unit Supply",
+		"uniques": [
+			"[3] units cost no maintenance",
+			"[+3] Unit Supply",
 			"Free [State Guard] appears",
 			"[2] free [Pre-War Turret] units appear",
 			"Automatically built in all cities where it is buildable",
 			"Can only be built <in [Capital] cities>",
 			"Only available <for [City-States]>",
-			"Destroyed when the city is captured"]
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Lay of the Land",
+		"cost": 0,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"[+1] Sight <for [Scout] units>",
+			"Free [Scout] appears",
+			"Reveals the entire map",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Only available <for [City-States]>",
+			"Destroyed when the city is captured"
+		]
 	},
 	{
 		"name": "Storage Plant",
@@ -386,14 +369,15 @@
 		"uniqueTo": "Tellus",
 		"cityHealth": 50,
 		"cost": 0,
-		"uniques": ["City Defense",
+		"uniques": [
 			"[5] units cost no maintenance",
 			"Free [Dendro Mutant] appears",
 			"[2] free [Pre-War Turret] units appear",
 			"Automatically built in all cities where it is buildable",
 			"Can only be built <in [Capital] cities>",
 			"Destroyed when the city is captured",
-			"Will not be displayed in Civilopedia"]
+			"Will not be displayed in Civilopedia"
+		]
 	},
 	{
 		"name": "Alma Defense Directorate",
@@ -401,7 +385,7 @@
 		"uniqueTo": "Almaty",
 		"cityHealth": 80,
 		"cost": 0,
-		"uniques": ["City Defense",
+		"uniques": [
 			"[5] units cost no maintenance",
 			"Provides [2] [Weapons]",
 			"Free [Alma State Guard] appears",
@@ -409,16 +393,19 @@
 			"Automatically built in all cities where it is buildable",
 			"Can only be built <in [Capital] cities>",
 			"Destroyed when the city is captured",
-			"Will not be displayed in Civilopedia"]
+			"Will not be displayed in Civilopedia"
+		]
 	},
 	{
 		"name": "Central Press Service",
 		"uniqueTo": "Almaty",
-		"requiredBuilding": "Defense Directorate",
-		"cost": 1,
-		"uniques": ["Provides [1] [Newspaper]",
+		"cost": 0,
+		"uniques": [
+			"Provides [1] [Newspaper]",
+			"Can only be built <in [Capital] cities>",
 			"Destroyed when the city is captured",
-			"Will not be displayed in Civilopedia"],
+			"Will not be displayed in Civilopedia"
+		],
 		"requiredTech": "Civil Service"
 	},
 	{
@@ -491,10 +478,7 @@
 		"culture": 2,
 		"cost": 0,
 		"uniques": [
-			"Reveals the entire map",
 			"Provides 1 extra copy of each improved luxury resource near this City",
-			"Automatically built in all cities where it is buildable",
-			"Can only be built <in [Capital] cities>",
 			"Destroyed when the city is captured",
 			"Will not be displayed in Civilopedia"
 		]
@@ -505,10 +489,12 @@
 		"culture": 2,
 		"happiness": 2,
 		"cost": 0,
-		"uniques": ["Must be next to [Coast]",
+		"uniques": [
+			"Must be next to [Coast]",
 			"[+1 Culture] from [Water resource] tiles [in this city]",
 			"[2] free [Weaponized Yacht] units appear",
-			"Never destroyed when the city is captured"]
+			"Never destroyed when the city is captured"
+		]
 	},
 	{
 		"name": "Refurbished Textile Mill",
@@ -687,7 +673,7 @@
 		"culture": 2,
 		"gold": 2,
 		"cost": 0,
-		"uniques": ["City Defense",
+		"uniques": [
 			"[3] units cost no maintenance",
 			"Free [Blueliner] appears",
 			"[2] free [Pre-War Turret] units appear",
@@ -695,7 +681,8 @@
 			"Automatically built in all cities where it is buildable",
 			"Can only be built <in [Capital] cities>",
 			"Destroyed when the city is captured",
-			"Will not be displayed in Civilopedia"]
+			"Will not be displayed in Civilopedia"
+		]
 	},
 	{
 		"name": "Ice Hockey Rink",
@@ -721,7 +708,6 @@
 			"Free [Issaquah Mystic] appears",
 			"[2] free [Hawkman Brave] units appear",
 			"[+25]% Production when constructing [Military] units [in this city] <when at war>",
-			"Reveals the entire map",
 			"Automatically built in all cities where it is buildable",
 			"Can only be built <in [Capital] cities>",
 			"Destroyed when the city is captured",
@@ -826,7 +812,6 @@
 		"science": 2,
 		"cost": 0,
 		"uniques": [
-			"Reveals the entire map",
 			"Provides [1] [Weapons]",
 			"Free [Militia] appears",
 			"Automatically built in all cities where it is buildable",
