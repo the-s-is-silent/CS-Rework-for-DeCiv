@@ -858,5 +858,20 @@
 			"Will not be displayed in Civilopedia"
 		],
 		"requiredTech": "Education"
+	},
+	{
+		"name": "GUVD Trudograd",
+		"replaces": "Defense Directorate",
+		"uniqueTo": "Trudograd",
+		"cityHealth": 50,
+		"cost": 0,
+		"uniques": ["[3] units cost no maintenance",
+			"Provides [1] [Weapons]",
+			"Free [Militsiya] appears",
+			"[2] free [Pre-War Gatling Turret] units appear",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built [in capital]",
+			"Only available <for [City-States]>",
+			"Destroyed when the city is captured"]
 	}
 ]
