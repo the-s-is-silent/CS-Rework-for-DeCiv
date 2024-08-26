@@ -175,6 +175,21 @@
 		"attackSound": "machinegun"
 	},
 	{
+		"name": "Hub Police",
+		"replaces": "State Guard",
+		"uniqueTo": "The Hub",
+		"unitType": "Scrapper",
+		"movement": 2,
+		"strength": 36,
+		"interceptRange": 1,
+		"cost": 50,
+		"upgradesTo": "Soldier",
+		"hurryCostModifier": 20,
+		"uniques": ["Personnel", "Consumes [1] [Weapons]", "[+25]% Strength when stacked with [Civilian]"],
+		"promotions": ["Combat Armor", "Hazard Pay"],
+		"attackSound": "shot"
+	},
+	{
 		"name": "Martial Monk",
 		"replaces": "State Guard",
 		"uniqueTo": "Order of Jerome",

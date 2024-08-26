@@ -2,7 +2,7 @@
 	//Base DeCiv City-States
 	{
 		"name": "The Archive",
-		"adjective": ["Archive"],
+		"adjective": ["Archivist"],
 		"cityStateType": "Archive-type",
 		"style": "Corporate",
 		"uniques": ["Starts with [Secrets of the Past]", "Starts with [Writing]", "Starts with [Education]"],
@@ -27,7 +27,7 @@
 	},
 	{
 		"name": "Bartertown",
-		"adjective": ["Bartertown"],
+		"adjective": ["Bartertownsfolk"],
 		"cityStateType": "Bartertown-type",
 		"style": "Gang",
 		"uniques": ["Starts with [Redomestication]", "Starts with [Iron Working]", "Starts with [Chemistry]"],
@@ -117,7 +117,7 @@
 	},
 	{
 		"name": "The Hub",
-		"adjective": ["Hub"],
+		"adjective": ["Hubber"],
 		"cityStateType": "Hub-type",
 		"style": "Corporate",
 		"declaringWar": "You leave us no choice. War it must be.",
