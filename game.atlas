@@ -256,13 +256,6 @@ CityStateIcons/Tellus-type
   orig: 100, 100
   offset: 0, 0
   index: -1
-CityStateIcons/Trudograd-type
-  rotate: false
-  xy: 1724, 298
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 CityStateIcons/Venice-type
   rotate: false
   xy: 1832, 298
@@ -300,7 +293,7 @@ ResourceIcons/Newspaper
   index: -1
 TileSets/FantasyHex/Tiles/Seaside Resort
   rotate: false
-  xy: 830, 154
+  xy: 888, 154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -335,7 +328,7 @@ TileSets/FantasyHex/Units/Dendro Mutant
   index: -1
 TileSets/FantasyHex/Units/Goon
   rotate: false
-  xy: 710, 154
+  xy: 768, 154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -363,7 +356,7 @@ TileSets/FantasyHex/Units/Issaquah Mystic
   index: -1
 TileSets/FantasyHex/Units/Lawkeeper
   rotate: false
-  xy: 750, 154
+  xy: 808, 154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -391,7 +384,7 @@ TileSets/FantasyHex/Units/Pale Veteran
   index: -1
 TileSets/FantasyHex/Units/Pax Researcher
   rotate: false
-  xy: 790, 154
+  xy: 848, 154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -419,14 +412,14 @@ TileSets/FantasyHex/Units/Pre-War Turret
   index: -1
 TileSets/FantasyHex/Units/State Guard
   rotate: false
-  xy: 870, 154
+  xy: 696, 96
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trudograd Security Service
   rotate: false
-  xy: 910, 154
+  xy: 928, 154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -529,6 +522,20 @@ UnitIcons/State Guard
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Trudograd Security Service
+  rotate: false
+  xy: 1724, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Trudograd-type
+  rotate: false
+  xy: 1724, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitPromotionIcons/AI Implant
   rotate: false
   xy: 4, 40
@@ -550,44 +557,51 @@ UnitPromotionIcons/Battle Meditation
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Conquer Terrain
+UnitPromotionIcons/Combat Armor
   rotate: false
   xy: 62, 40
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Line Brawl
+UnitPromotionIcons/Conquer Terrain
   rotate: false
   xy: 1940, 290
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Oath of Vengeance
+UnitPromotionIcons/Line Brawl
   rotate: false
   xy: 594, 132
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Prospector
+UnitPromotionIcons/Oath of Vengeance
   rotate: false
   xy: 120, 40
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Seaside Resort
+UnitPromotionIcons/Prospector
   rotate: false
   xy: 1940, 232
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Will of Tellus
+UnitPromotionIcons/Seaside Resort
   rotate: false
   xy: 652, 132
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Will of Tellus
+  rotate: false
+  xy: 710, 132
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
