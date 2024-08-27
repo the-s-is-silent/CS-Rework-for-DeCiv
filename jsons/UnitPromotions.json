@@ -21,6 +21,10 @@
 		"uniques": ["[This Unit] gains [1] XP <upon ending a turn in a [Great Improvement] tile>"]
 	},
 	{
+		"name": "Combat Armor",
+		"uniques": ["[+20]% Strength <when defending>"]
+	},
+	{
 		"name": "Devoted",
 		"uniques": ["Can Spread Religion <[1] additional time(s)>"]
 	},
