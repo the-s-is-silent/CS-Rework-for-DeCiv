@@ -1,0 +1,594 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Atomic Diner
+  rotate: false
+  xy: 4, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ice Hockey Rink
+  rotate: false
+  xy: 860, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Refurbished Textile Mill
+  rotate: false
+  xy: 4, 98
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Thunderdome
+  rotate: false
+  xy: 1616, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Totem Pole
+  rotate: false
+  xy: 212, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Underworld
+  rotate: false
+  xy: 1724, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Yacht Club
+  rotate: false
+  xy: 428, 82
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Almaty-type
+  rotate: false
+  xy: 744, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Archive-type
+  rotate: false
+  xy: 852, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Research
+  rotate: false
+  xy: 852, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Arden-type
+  rotate: false
+  xy: 960, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Arroyo-type
+  rotate: false
+  xy: 1068, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Bartertown-type
+  rotate: false
+  xy: 1284, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Calico-type
+  rotate: false
+  xy: 1500, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Carbon-type
+  rotate: false
+  xy: 1608, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Farming
+  rotate: false
+  xy: 1608, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Culture
+  rotate: false
+  xy: 1716, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Dahomey-type
+  rotate: false
+  xy: 1824, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Labor
+  rotate: false
+  xy: 1824, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Defiance-type
+  rotate: false
+  xy: 1932, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Deseret-type
+  rotate: false
+  xy: 320, 198
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Devil-type
+  rotate: false
+  xy: 320, 90
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Emerald-type
+  rotate: false
+  xy: 428, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Exploiter-type
+  rotate: false
+  xy: 428, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Fo Guang-type
+  rotate: false
+  xy: 536, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Ghost-type
+  rotate: false
+  xy: 536, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Hockey-type
+  rotate: false
+  xy: 752, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Hub-type
+  rotate: false
+  xy: 752, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Trading
+  rotate: false
+  xy: 752, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Iron Rod-type
+  rotate: false
+  xy: 860, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Issaquah-type
+  rotate: false
+  xy: 968, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Jericho-type
+  rotate: false
+  xy: 1076, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Jerome-type
+  rotate: false
+  xy: 1076, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Prayer
+  rotate: false
+  xy: 1076, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Pax-type
+  rotate: false
+  xy: 1400, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Tellus-type
+  rotate: false
+  xy: 1616, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Trudograd-type
+  rotate: false
+  xy: 1724, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Venice-type
+  rotate: false
+  xy: 1832, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Weapons
+  rotate: false
+  xy: 1832, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Seaside Resort
+  rotate: false
+  xy: 1508, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Advanced Fabrics
+  rotate: false
+  xy: 212, 198
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Newspaper
+  rotate: false
+  xy: 1292, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Seaside Resort
+  rotate: false
+  xy: 830, 154
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ark Hunter
+  rotate: false
+  xy: 4, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Bartertown Imperial Guard
+  rotate: false
+  xy: 1998, 370
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Blueliner
+  rotate: false
+  xy: 536, 96
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Dendro Mutant
+  rotate: false
+  xy: 1940, 196
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Goon
+  rotate: false
+  xy: 710, 154
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hawkman Brave
+  rotate: false
+  xy: 44, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hub Police
+  rotate: false
+  xy: 1998, 334
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Issaquah Mystic
+  rotate: false
+  xy: 576, 96
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lawkeeper
+  rotate: false
+  xy: 750, 154
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Martial Monk
+  rotate: false
+  xy: 84, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Nauvoo Legion
+  rotate: false
+  xy: 1998, 298
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pale Veteran
+  rotate: false
+  xy: 616, 96
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pax Researcher
+  rotate: false
+  xy: 790, 154
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pax Surveyor
+  rotate: false
+  xy: 124, 4
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Persevering Pax Researcher
+  rotate: false
+  xy: 1998, 262
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Pre-War Turret
+  rotate: false
+  xy: 656, 96
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/State Guard
+  rotate: false
+  xy: 870, 154
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Trudograd Security Service
+  rotate: false
+  xy: 910, 154
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Alma Frontier Guard
+  rotate: false
+  xy: 420, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Alma Honor Guard
+  rotate: false
+  xy: 528, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Alma State Guard
+  rotate: false
+  xy: 636, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Bartertown Imperial Guard
+  rotate: false
+  xy: 1176, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Blueliner
+  rotate: false
+  xy: 1392, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Dendro Mutant
+  rotate: false
+  xy: 212, 90
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Goon
+  rotate: false
+  xy: 644, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hawkman Brave
+  rotate: false
+  xy: 644, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Issaquah Mystic
+  rotate: false
+  xy: 968, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lawkeeper
+  rotate: false
+  xy: 1184, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Martial Monk
+  rotate: false
+  xy: 1184, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nauvoo Legion
+  rotate: false
+  xy: 1292, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pre-War Turret
+  rotate: false
+  xy: 1400, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/State Guard
+  rotate: false
+  xy: 1508, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/AI Implant
+  rotate: false
+  xy: 4, 40
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Ballistic Weave
+  rotate: false
+  xy: 1940, 348
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Battle Meditation
+  rotate: false
+  xy: 536, 132
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Conquer Terrain
+  rotate: false
+  xy: 62, 40
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Line Brawl
+  rotate: false
+  xy: 1940, 290
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Oath of Vengeance
+  rotate: false
+  xy: 594, 132
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Prospector
+  rotate: false
+  xy: 120, 40
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Seaside Resort
+  rotate: false
+  xy: 1940, 232
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Will of Tellus
+  rotate: false
+  xy: 652, 132
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
