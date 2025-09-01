@@ -226,9 +226,9 @@
 		"allyBonusUniques": [
 			"Provides military units every ≈[17] turns",
 			"[+30]% Strength <for [Scrapper] units> <when fighting in [Forest] tiles>",
-			"[+30]% Strength <for [Scrapper] units> <when fighting in [Jungle] tiles",
+			"[+30]% Strength <for [Scrapper] units> <when fighting in [Jungle] tiles>",
 			"[+30]% Strength <for [Shooter] units> <when fighting in [Forest] tiles>",
-			"[+30]% Strength <for [Shooter] units> <when fighting in [Jungle] tiles"
+			"[+30]% Strength <for [Shooter] units> <when fighting in [Jungle] tiles>"
 		],
 		"color": [51, 51, 255]
 	},

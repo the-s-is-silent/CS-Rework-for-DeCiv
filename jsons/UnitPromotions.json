@@ -30,7 +30,8 @@
 	},
 	{
 		"name": "[Lawkeeper] ability",
-		"uniques": ["Great General",
+		"uniques": [
+			"Great General",
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
 			"[-10]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"[+50]% XP gained from combat",
@@ -38,8 +39,9 @@
 			"Can build [All Road] improvements on tiles",
 			"Can build [Fort] improvements on tiles",
 			"Can build [Trench] improvements on tiles",
-			"[-25]% construction time for [Land] improvements <after discovering [Replaceable Parts]>",
-			"Uncapturable"]
+			"[-25]% construction time for [All] improvements <after discovering [Replaceable Parts]>",
+			"Uncapturable"
+		]
 	},
 	{
 		"name": "Line Brawl",
@@ -53,7 +55,7 @@
 	{
 		"name": "Prospector",
 		"uniques": [
-			"[+15]% Strength when stacked with [Civilian]",
+			"[+15]% Strength <when stacked with a [Civilian] unit>",
 			"Can build [Land] improvements on tiles",
 			"[-25]% construction time for [All] improvements <after discovering [Replaceable Parts]>",
 			"Gain [1]-[10] [Gold] <upon ending a turn in a [Forest] tile>",

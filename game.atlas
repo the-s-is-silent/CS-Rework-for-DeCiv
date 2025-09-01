@@ -27,7 +27,7 @@ BuildingIcons/Refurbished Textile Mill
   index: -1
 BuildingIcons/Thunderdome
   rotate: false
-  xy: 1616, 190
+  xy: 1724, 190
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -41,14 +41,14 @@ BuildingIcons/Totem Pole
   index: -1
 BuildingIcons/Underworld
   rotate: false
-  xy: 1724, 190
+  xy: 536, 82
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Yacht Club
   rotate: false
-  xy: 428, 82
+  xy: 752, 82
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -61,13 +61,6 @@ CityStateIcons/Almaty-type
   offset: 0, 0
   index: -1
 CityStateIcons/Archive-type
-  rotate: false
-  xy: 852, 406
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-CityStateIcons/Research
   rotate: false
   xy: 852, 406
   size: 100, 100
@@ -109,79 +102,65 @@ CityStateIcons/Carbon-type
   orig: 100, 100
   offset: 0, 0
   index: -1
-CityStateIcons/Farming
-  rotate: false
-  xy: 1608, 406
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-CityStateIcons/Culture
+CityStateIcons/Dahomey-type
   rotate: false
   xy: 1716, 406
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-CityStateIcons/Dahomey-type
-  rotate: false
-  xy: 1824, 406
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-CityStateIcons/Labor
-  rotate: false
-  xy: 1824, 406
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 CityStateIcons/Defiance-type
   rotate: false
-  xy: 1932, 406
+  xy: 1824, 406
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 CityStateIcons/Deseret-type
   rotate: false
-  xy: 320, 198
+  xy: 212, 90
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 CityStateIcons/Devil-type
   rotate: false
-  xy: 320, 90
+  xy: 320, 198
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 CityStateIcons/Emerald-type
   rotate: false
-  xy: 428, 298
+  xy: 320, 90
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 CityStateIcons/Exploiter-type
   rotate: false
-  xy: 428, 190
+  xy: 428, 298
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 CityStateIcons/Fo Guang-type
   rotate: false
-  xy: 536, 298
+  xy: 428, 190
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 CityStateIcons/Ghost-type
   rotate: false
-  xy: 536, 190
+  xy: 536, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+CityStateIcons/Guiyu-type
+  rotate: false
+  xy: 644, 298
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -194,13 +173,6 @@ CityStateIcons/Hockey-type
   offset: 0, 0
   index: -1
 CityStateIcons/Hub-type
-  rotate: false
-  xy: 752, 190
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-CityStateIcons/Trading
   rotate: false
   xy: 752, 190
   size: 100, 100
@@ -235,44 +207,44 @@ CityStateIcons/Jerome-type
   orig: 100, 100
   offset: 0, 0
   index: -1
-CityStateIcons/Prayer
+CityStateIcons/Pax-type
   rotate: false
-  xy: 1076, 190
+  xy: 1400, 190
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-CityStateIcons/Pax-type
+CityStateIcons/Powderhorn-type
   rotate: false
-  xy: 1400, 298
+  xy: 1508, 298
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 CityStateIcons/Tellus-type
   rotate: false
-  xy: 1616, 298
+  xy: 1724, 298
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-CityStateIcons/Venice-type
-  rotate: false
-  xy: 1832, 298
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-CityStateIcons/Weapons
+CityStateIcons/Tự Do-type
   rotate: false
   xy: 1832, 190
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+CityStateIcons/Venice-type
+  rotate: false
+  xy: 644, 82
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Seaside Resort
   rotate: false
-  xy: 1508, 298
+  xy: 1616, 298
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -286,14 +258,14 @@ ResourceIcons/Advanced Fabrics
   index: -1
 ResourceIcons/Newspaper
   rotate: false
-  xy: 1292, 190
+  xy: 1400, 298
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Seaside Resort
   rotate: false
-  xy: 888, 154
+  xy: 1020, 96
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -314,7 +286,7 @@ TileSets/FantasyHex/Units/Bartertown Imperial Guard
   index: -1
 TileSets/FantasyHex/Units/Blueliner
   rotate: false
-  xy: 536, 96
+  xy: 860, 96
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -328,7 +300,7 @@ TileSets/FantasyHex/Units/Dendro Mutant
   index: -1
 TileSets/FantasyHex/Units/Goon
   rotate: false
-  xy: 768, 154
+  xy: 1092, 154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -349,14 +321,14 @@ TileSets/FantasyHex/Units/Hub Police
   index: -1
 TileSets/FantasyHex/Units/Issaquah Mystic
   rotate: false
-  xy: 576, 96
+  xy: 900, 96
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lawkeeper
   rotate: false
-  xy: 808, 154
+  xy: 1132, 154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -375,51 +347,65 @@ TileSets/FantasyHex/Units/Nauvoo Legion
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/New Police
+  rotate: false
+  xy: 940, 96
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Pale Veteran
   rotate: false
-  xy: 616, 96
+  xy: 1172, 154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pax Researcher
   rotate: false
-  xy: 848, 154
+  xy: 124, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pax Surveyor
   rotate: false
-  xy: 124, 4
+  xy: 1998, 262
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Persevering Pax Researcher
   rotate: false
-  xy: 1998, 262
+  xy: 980, 96
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pre-War Turret
   rotate: false
-  xy: 656, 96
+  xy: 1212, 154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/State Guard
   rotate: false
-  xy: 696, 96
+  xy: 1252, 154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trudograd Security Service
   rotate: false
-  xy: 928, 154
+  xy: 1292, 154
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Tự Vệ Quân
+  rotate: false
+  xy: 1332, 154
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -461,14 +447,14 @@ UnitIcons/Blueliner
   index: -1
 UnitIcons/Dendro Mutant
   rotate: false
-  xy: 212, 90
+  xy: 1932, 406
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Goon
   rotate: false
-  xy: 644, 298
+  xy: 536, 190
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -508,30 +494,44 @@ UnitIcons/Nauvoo Legion
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Pre-War Turret
+UnitIcons/New Police
   rotate: false
-  xy: 1400, 190
+  xy: 1292, 190
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/State Guard
+UnitIcons/Pre-War Turret
   rotate: false
   xy: 1508, 190
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/State Guard
+  rotate: false
+  xy: 1616, 190
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 UnitIcons/Trudograd Security Service
   rotate: false
-  xy: 1724, 298
+  xy: 1832, 298
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 CityStateIcons/Trudograd-type
   rotate: false
-  xy: 1724, 298
+  xy: 1832, 298
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tự Vệ Quân
+  rotate: false
+  xy: 428, 82
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -552,7 +552,7 @@ UnitPromotionIcons/Ballistic Weave
   index: -1
 UnitPromotionIcons/Battle Meditation
   rotate: false
-  xy: 536, 132
+  xy: 860, 132
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -573,7 +573,7 @@ UnitPromotionIcons/Conquer Terrain
   index: -1
 UnitPromotionIcons/Line Brawl
   rotate: false
-  xy: 594, 132
+  xy: 918, 132
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -594,14 +594,14 @@ UnitPromotionIcons/Prospector
   index: -1
 UnitPromotionIcons/Seaside Resort
   rotate: false
-  xy: 652, 132
+  xy: 976, 132
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Will of Tellus
   rotate: false
-  xy: 710, 132
+  xy: 1034, 132
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
